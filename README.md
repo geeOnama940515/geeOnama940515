@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on developing open-source application.
 - 🤔 I’m looking for help with mobile development front-end.
 - 💬 Ask me about mobile apps development using flutter.
-- 📫 How to reach me: email: gregamano94@gmail.com
+- 📫 How to reach me: email: gregamano94x@gmail.com
