@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about backend development using c#/.net.
 - 📫 How to reach me: email: gregamano94x@gmail.com
 -->
-- 🔭 I’m currently working on mobile development using flutter.
-- 🌱 I’m currently learning laravel with vue.
+- 🔭 I’m currently working on backend development using c#/.net.
+- 🌱 I’m currently learning angular with typescript.
 - 👯 I’m looking to collaborate on developing open-source application.
 - 🤔 I’m looking for help with mobile development front-end.
-- 💬 Ask me about mobile apps development using flutter.
+- 💬 Ask me about backend development using c#/.net.
 - 📫 How to reach me: email: gregamano94x@gmail.com
